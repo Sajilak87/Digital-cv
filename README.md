@@ -1,7 +1,9 @@
 # Digital-cv
 <img src="Passportsizephoto.jpg" alt="Profile Image" width="150">
-## Sajith Lakmal Liyange 
-**Software Engineer | Web Developer**    
+Sajith Lakmal Liyanage
+
+
+Software Engineer | Web Developer 
 
 ---
 
